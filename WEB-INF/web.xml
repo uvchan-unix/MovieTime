@@ -1,0 +1,3 @@
+<listener>
+    <listener-class>com.zs.movietime.models.collectiontree.Collection</listener-class>
+</listener>

@@ -1,9 +1,9 @@
-package zs.movietime.models.DAO;
+package com.zs.movietime.models.DAO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-import zs.movietime.models.DAO.configurations.Properties;
+import com.zs.movietime.models.DAO.configurations.Properties;
 
 public class DBConnection {
 
